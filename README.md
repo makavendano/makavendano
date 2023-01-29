@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**makavendano/makavendano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently teaching myself to be a comprehensive data analyst/data scientist. I have been pushing myself to complete personal projects in order to improve my portfolio and break into the tech field. My 7 years of experience at FedEx Ground has pushed me to develop leadership skills, business knowledge, and learn how to use an analytical mindset. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on data projects to upgrade my portfolio
+- 🌱 I’m currently learning python and tableau 
+- 🤝 I'm open to collaborate on anything data related 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Quick facts about me 
+- 🎮 I spend my free time playing video games 
+- 🎨 I enjoy drawing and illustrating 
+- 🐶 I have 2 crazy dogs
+- 🍕 I LOVE pineapple on pizza 
+
+### Current Tool Set: 
+- MySQL 
+- PowerBI
+- Tableau 
+- Git 
+- Github
+- Jupyter Notebooks 
+
+You can reach me at: 
+[LinkedIn](https://www.linkedin.com/in/avendanom/)
+Email me at makaylaavendano@gmail.com 
+[GitHub](https://github.com/makavendano)
+
+I'd love to connect and discuss job opportunities, discuss anything data related, or talk about any of my interests! 
