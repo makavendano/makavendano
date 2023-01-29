@@ -21,8 +21,8 @@ I am currently teaching myself to be a comprehensive data analyst/data scientist
 - Jupyter Notebooks 
 
 You can reach me at: 
-[LinkedIn](https://www.linkedin.com/in/avendanom/)
-Email me at makaylaavendano@gmail.com 
-[GitHub](https://github.com/makavendano)
+- [LinkedIn](https://www.linkedin.com/in/avendanom/)
+- Email me at makaylaavendano@gmail.com 
+- [GitHub](https://github.com/makavendano)
 
 I'd love to connect and discuss job opportunities, discuss anything data related, or talk about any of my interests! 
