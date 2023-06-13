@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I am currently teaching myself to be a comprehensive data analyst/data scientist. I have been pushing myself to complete personal projects in order to improve my portfolio and break into the tech field. My 7 years of experience at FedEx Ground has pushed me to develop leadership skills, business knowledge, and learn how to use an analytical mindset. 
+I am currently a student at Western Governors University pursuing a Masters in Data Analytics. I have been pushing myself to complete personal projects in order to improve my portfolio and break into the tech field. My 7 years of experience at FedEx Ground has pushed me to develop leadership skills, business knowledge, and learn how to use an analytical mindset. 
 
+- 🎒 I'm currently getting my Masters in Data Analytics 
 - 🔭 I’m currently working on data projects to upgrade my portfolio
 - 🌱 I’m currently learning python and tableau 
 - 🤝 I'm open to collaborate on anything data related 
