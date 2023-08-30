@@ -4,7 +4,7 @@ I am currently a student at Western Governors University pursuing a Masters in D
 
 - 🎒 I'm currently getting my Masters in Data Analytics 
 - 🔭 I’m currently working on data projects to upgrade my portfolio
-- 🌱 I’m currently learning python and tableau 
+- 🌱 I’m currently learning Python and tableau 
 - 🤝 I'm open to collaborate on anything data related 
 
 ### Quick facts about me 
@@ -19,7 +19,8 @@ I am currently a student at Western Governors University pursuing a Masters in D
 - Tableau 
 - Git 
 - Github
-- Jupyter Notebooks 
+- Jupyter Notebooks
+- PostgreSQL
 
 You can reach me at: 
 - [LinkedIn](https://www.linkedin.com/in/avendanom/)
