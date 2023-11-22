@@ -2,9 +2,9 @@
 
 I am currently a student at Western Governors University pursuing a Masters in Data Analytics. I have been pushing myself to complete personal projects in order to improve my portfolio and break into the tech field. My 7 years of experience at FedEx Ground has pushed me to develop leadership skills, business knowledge, and learn how to use an analytical mindset. 
 
-- 🎒 I'm currently getting my Masters in Data Analytics 
+- 🎒 I'm a recent graduate with a Masters of Science in Data Analytics
 - 🔭 I’m currently working on data projects to upgrade my portfolio
-- 🌱 I’m currently learning Python and tableau 
+- 🌱 I’m currently improving my Machine Learning skills
 - 🤝 I'm open to collaborate on anything data related 
 
 ### Quick facts about me 
@@ -14,13 +14,16 @@ I am currently a student at Western Governors University pursuing a Masters in D
 - 🍕 I LOVE pineapple on pizza 
 
 ### Current Tool Set: 
-- MySQL 
+- MySQL & PostgreSQL
 - PowerBI
 - Tableau 
 - Git 
 - Github
 - Jupyter Notebooks
-- PostgreSQL
+- Python
+- R
+- SAP Business Objects
+- Excel/VBA
 
 You can reach me at: 
 - [LinkedIn](https://www.linkedin.com/in/avendanom/)
