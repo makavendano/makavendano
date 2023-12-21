@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am recent college graduate at Western Governors University with a Masters in Data Analytics. I have been pushing myself to complete personal projects in order to improve my portfolio and break into the tech field. My 7 years of experience at FedEx Ground has pushed me to develop leadership skills, business knowledge, and learn how to use an analytical mindset. 
+I am a recent college graduate at Western Governors University with a Masters in Data Analytics. I have been pushing myself to complete personal projects in order to improve my portfolio and break into the tech field. My 7 years of experience at FedEx Ground has pushed me to develop leadership skills, business knowledge, and learn how to use an analytical mindset. 
 
 - 🎒 I'm a recent graduate with a Masters of Science in Data Analytics
 - 🔭 I’m currently working on data projects to upgrade my portfolio
